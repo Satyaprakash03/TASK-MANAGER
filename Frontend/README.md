@@ -10,16 +10,6 @@
 
 <p align="center">
 
-  <!-- Badges -->
-  <img src="https://img.shields.io/github/stars/Satyaprakash03/task-manager?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Satyaprakash03/task-manager?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Satyaprakash03/task-manager?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Satyaprakash03/task-manager?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Server-Express-black?style=for-the-badge&logo=express" />
@@ -63,9 +53,31 @@
 - 🐙 Git & GitHub
 - 📮 Postman
 - 💻 VS Code
-- ▲ Vercel / Render
+- ▲ Vercel
 
 ---
 
-## 📂 Project Structure
+## 📜 License
+<p>
+Copyright (c) 2026 Sahil Satyaprakash
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</p>
+
 
